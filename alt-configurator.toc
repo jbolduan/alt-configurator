@@ -1,0 +1,31 @@
+## Interface: 110200
+## Title: Alt Configurator
+## Author: theGimpboy
+## Version: 0.1.0
+## Notes: This addon is to help configure alts for WoW.
+## SavedVariables: altConfiguratorDB
+
+manifest.xml
+
+# Core
+core/Init.lua
+core/Commands.lua
+core/Utils.lua
+core/Debug.lua
+core/Diagnostics.lua
+
+# Configuration UI
+config/Options.lua
+
+# Utilities
+utils/Serialization.lua
+utils/ClassColors.lua
+utils/GuiUtils.lua
+utils/Dialogs.lua
+
+# Modules
+modules/ActionBarManager.lua
+modules/GuiManager.lua
+modules/GuiTesting.lua
+
+
