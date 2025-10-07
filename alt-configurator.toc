@@ -5,6 +5,8 @@
 ## Notes: This addon is to help configure alts for WoW.
 ## SavedVariables: altConfiguratorDB
 ## X-Website: https://github.com/jbolduan/alt-configurator
+## X-Curse-Project-ID: 1360155
+## X-Wago-ID: 96doW4NO
 
 manifest.xml
 
