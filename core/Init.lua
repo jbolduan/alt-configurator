@@ -17,7 +17,7 @@ function addon:OnInitialize()
       profile = {
         debug = {
           enabled = true,
-          level = 5, -- default to max verbosity so everything shows
+          level = 1, -- default to errors only for production use
           captureStack = false,
         },
         actionBars = {
